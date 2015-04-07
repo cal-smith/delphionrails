@@ -1,2 +1,2 @@
 # delphionrails
-Automatically exported from code.google.com/p/delphionrails for preservation purposes
+Exported from code.google.com/p/delphionrails for preservation purposes
